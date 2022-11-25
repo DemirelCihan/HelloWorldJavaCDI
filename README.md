@@ -1,0 +1,2 @@
+# HelloWorldJavaCDI
+HelloWorldJavaCDI in intelij
